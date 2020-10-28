@@ -7,10 +7,6 @@
  * There is also an admin panel.An admin can show all volunteer events and can delete or add any events. 
  
  ### Technology
- * React js
- * React router
- * Firebase Authentication
- * React bootstrap
  * Node.js 
  * Express js
  * MongoDB
